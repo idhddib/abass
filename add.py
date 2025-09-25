@@ -12,7 +12,7 @@ import os
 token = '5414907722:AAGRIPbyta1nGAeEc9hmVtKCI3s9QEGO--w'
 
 
-:
+
 
 bot = telebot.TeleBot(token)
 
